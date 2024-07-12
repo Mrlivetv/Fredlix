@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+<script>
+window.location.href = "https://t.me/FREDFLIX1";
+</script>
+</html>
+<noscript>
+</noscript>
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Island of Chacha" tvg-logo="https://dashradio-files.s3.amazonaws.com/SPECIALBANNERS_APP_WEB/chacha_NEW.png" group-title="",Island of Chacha
 https://6oclock.xyz:8443/supastar2403/pbagoat2403/28903
