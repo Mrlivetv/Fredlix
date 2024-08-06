@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+<script>
+window.location.href = "https://t.me/Fredflix1";
+</script>
+</html>
+<noscript>
+</noscript>
+#EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.postimg.cc/nr2v069q/photo1720775692.jpg" ,t.me/Fredflix1
+https://t.me/Fredflix1
+
+#EXTINF:-1 tvg-id="" group-title="Fredflix" tvg-logo="https://i.postimg.cc/nr2v069q/photo1720775692.jpg" ,Fredflix1
+
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/3.png" group-title="CRIC HD", Sky Sports Cricket HD 
+https://n3.dramaticreadings.com:999/hls/skyscric.m3u8?md5=_GOhAAknYJ4OZfzleDmTDA&expires=1722956885
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/19.png" group-title="CRIC HD", Star Sports HD 
+https://n2.dramaticreadings.com:999/hls/star1in.m3u8?md5=RNU3TZmj0ua-nKgvPRC3iQ&expires=1722956906
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/51.png" group-title="CRIC HD", Star Sports HD Hindi 
+https://n1.dramaticreadings.com:999/hls/starhindi.m3u8?md5=Pu4sjcjF4LAo0nLmZhb5hA&expires=1722956928
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/53.png" group-title="CRIC HD", Star Sports 2 
+https://n3.dramaticreadings.com:999/hls/star2in.m3u8?md5=CmK4I76nFBwzGIr2RDjR6A&expires=1722956945
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/56.png" group-title="CRIC HD", A Sports HD 
+https://n3.dramaticreadings.com:999/hls/asportshd.m3u8?md5=vKJiFhe5el7bFtfDvAMmWw&expires=1722956972
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/63.png" group-title="CRIC HD", Sky Sport 3 New Zealand 
+https://n2.dramaticreadings.com:999/hls/sky3nz.m3u8?md5=mw5Ahw-Sg6KLMzKRZF7BQQ&expires=1722956985
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/18.png" group-title="CRIC HD", PTV Sports 
+https://n1.dramaticreadings.com:999/hls/ptvpk.m3u8?md5=WvmgbRuTciB2qlhxUCHhUg&expires=1722957003
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/50.png" group-title="CRIC HD", TEN Sports pk 
+https://n1.dramaticreadings.com:999/hls/tenspk.m3u8?md5=XN0Y7bvwcLim59J7HC6VXw&expires=1722957042
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/61.png" group-title="CRIC HD", Bein Sports 
+https://n2.dramaticreadings.com:999/hls/bein1max.m3u8?md5=YWmIbNDUAHa6FoiEb96w5w&expires=1722957064
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&s" group-title="CRIC HD", TNT Sports HD 
+https://n2.dramaticreadings.com:999/hls/bbtsp2.m3u8?md5=ip6UZDZDHxKWsz3kgp6w5Q&expires=1722957085
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/58.png" group-title="CRIC HD", Fox Cricket 501 HD 
+https://n2.dramaticreadings.com:999/hls/fox501.m3u8?md5=DSkMxtIXU_w5uhpJgPcl5w&expires=1722957107
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/20.png" group-title="CRIC HD", Willow Cricket HD 
+https://n2.dramaticreadings.com:999/hls/willowusa.m3u8?md5=INTPTPWsPVJyxcqw_cuO5g&expires=1722957115
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/55.png" group-title="CRIC HD", Willow Cricket Extra 
+https://n3.dramaticreadings.com:999/hls/willowextra.m3u8?md5=zMc-x-PDH34Y-0R_oYTD2g&expires=1722957147
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/60.png" group-title="CRIC HD", Sky Sports Mix HD 
+https://n3.dramaticreadings.com:999/hls/skysmixx.m3u8?md5=zVUggmWLfCknvKNG708cLA&expires=1722957172
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/21.jpg" group-title="CRIC HD", Geo Super 
+https://n2.dramaticreadings.com:999/hls/geosp.m3u8?md5=eyZkf8BrbvqaEPEYb1WIGA&expires=1722957246
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/22.png" group-title="CRIC HD", Sony ESPN
+https://n2.dramaticreadings.com:999/hls/hdchnl16.m3u8?md5=de4Uh9PYb6EuW25V4poCZg&expires=1722957271
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/23.png" group-title="CRIC HD", Sony Six 
+https://n2.dramaticreadings.com:999/hls/skysact.m3u8?md5=W_XtEOygDsUfJcW0BRwp_Q&expires=1722957287
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/49.png" group-title="CRIC HD", SuperSports Cricket
+https://n3.dramaticreadings.com:999/hls/supercricket.m3u8?md5=1_IxD2adlYuri4F0ui66FQ&expires=1722957302
+
+#EXTINF:-1 tvg-logo="https://m.crichd.vip/assets/uploads/channels/52.png" group-title="CRIC HD", TEN 1 
+https://n2.dramaticreadings.com:999/hls/ten1hd.m3u8?md5=YRFqNEvID3kOpwgOM4Sn-w&expires=1722957317
+
+#EXTINF:-1 tvg-logo="" group-title="CRIC HD", Channel 19 ( SKYBOX )
+https://n2.dramaticreadings.com:999/hls/hdchnl20.m3u8?md5=iMaRICIQPHTrpHnY51OadQ&expires=1722957333
